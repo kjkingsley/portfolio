@@ -19,4 +19,4 @@ The Self Study folder contains 2 sample notebooks taken from self study prior to
 - Data visualisation
 
 ## The target galaxy, Enso-z5, in the 10 available filters:
-![Enso in 10 Wavebands](./enso_magma.pdf)
+![Enso in 10 Wavebands](./enso_magma.png)
