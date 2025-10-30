@@ -1,4 +1,4 @@
-# Computational Astrophysics Projects — <Title>
+# Computational Astrophysics Projects
 
 ## Overview
 This repo contains all my Astrophysics research, primarily that done for my MPhil in Physics at the University of Cambridge 2024-25, but also the preliminary self-study done to prepare for the course.
