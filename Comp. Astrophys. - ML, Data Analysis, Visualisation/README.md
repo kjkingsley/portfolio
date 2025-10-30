@@ -1,5 +1,7 @@
 # Computational Astrophysics Projects
 
+![Enso in 10 Wavebands](./enso_magma.png)
+
 ## Overview
 This repo contains all my Astrophysics research, primarily that done for my MPhil in Physics at the University of Cambridge 2024-25, but also the preliminary self-study done to prepare for the course.
 Here you'll find:
@@ -18,5 +20,3 @@ The Self Study folder contains 2 sample notebooks taken from self study prior to
 - Data handling/processing
 - Data visualisation
 
-## The target galaxy, Enso-z5, in the 10 available filters:
-![Enso in 10 Wavebands](./enso_magma.png)
